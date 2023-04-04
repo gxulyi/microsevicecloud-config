@@ -14,7 +14,7 @@ mybatis:
 spring:
   profiles: dev	
   application:
-    name: microsevice-config-payment-client
+    name: microservice-config-payment-client
 
   #mysql  5用的驱动是com.mysql.jdbc.Driver
   #mysql  6用的驱动是com.mysql.cj.jdbc.Driver
@@ -79,7 +79,7 @@ mybatis:
 spring:
   profiles: test	
   application:
-    name: microsevice-config-payment-client
+    name: microservice-config-payment-client
 
   #mysql  5用的驱动是com.mysql.jdbc.Driver
   #mysql  6用的驱动是com.mysql.cj.jdbc.Driver
