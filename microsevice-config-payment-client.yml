@@ -85,7 +85,7 @@ spring:
   #mysql  6用的驱动是com.mysql.cj.jdbc.Driver
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/payment2?autoRreconnect=true&useSSL=false&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=GMT%2b8
+    url: jdbc:mysql://localhost:3306/payment02?autoRreconnect=true&useSSL=false&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&serverTimezone=GMT%2b8
     username: root
     password: root
     dbcp2:
